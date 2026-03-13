@@ -1,2 +1,2 @@
-# Object-Oriented-Programming
-2 course, Spring 
+# My teacher is Pakita. 
+She gaves a second chance for study Backend Developing for me.
